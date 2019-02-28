@@ -11,7 +11,6 @@ author = 'Toko'
 author_email = 'info@surpri.de'
 url = 'https://www.surpri.de'
 keywords = 'web cms pyramid sqlalchemy bootstrap Huracán'
-license = "BSD-derived (http://www.repoze.org/LICENSE.txt)"
 
 
 install_requires = [
@@ -86,7 +85,7 @@ setup(name='Huracán',
           'Environment :: Web Environment',
           'Framework :: Huracán',
           'Framework :: Pyramid',
-          'License :: Repoze Public License',
+          'License :: MIT',
           'Natural Language :: English',
           'Natural Language :: German',
           'Operating System :: Unix',
